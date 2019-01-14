@@ -94,7 +94,7 @@ foreach($string as $items)
                                 </div>
                             </div>
                         </div> -->
-                    <div class="card text-white bg-primary mb-2">
+                    <div class="card text-white bg-primary mb-2" style="width: 250px; height: 400px;">
                             <div class="card-header">Tweet</div>
                         <div class="card-body">
                             <h5 class="card-title"><?php echo $items['user']['name'];?></h5>
@@ -102,7 +102,7 @@ foreach($string as $items)
                             <p class="card-text"> <?php echo $items['text'];?></p>
                         </div>
                         <div class="card-footer">
-                            <small class="text-muted"><?php echo "Time and Date: ".$items['created_at'];?></small>
+                            <small><?php echo "Time and Date: ".$items['created_at'];?></small>
                         </div>
                     </div>
 
