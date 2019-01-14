@@ -102,7 +102,7 @@ foreach($string as $items)
                       }?>
                 </div>
                 <p class="lead">
-                    <a class="btn btn-primary btn-sm" href="http://wisdome.webxinfotech.com/test/testApp.php" role="button">Refresh</a>
+                    <a class="btn btn-primary btn-sm" href="https://tweetoz.herokuapp.com/" role="button">Refresh</a>
                 </p>
             </div>
         </div>
