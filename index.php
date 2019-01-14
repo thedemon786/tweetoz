@@ -33,7 +33,7 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
 
     <body>
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-            <a class="navbar-brand" href="https://tweetoz.herokuapp.com/">testApp</a>
+            <a class="navbar-brand" href="https://tweetoz.herokuapp.com/">TweetOz</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -56,8 +56,8 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
       </li> -->
                 </ul>
                 <form class="form-inline my-2 my-lg-0" method="get" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
-                    <input name="user" class="form-control mr-sm-2" type="text" placeholder="Search">
-                    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+                    <input name="user" class="form-control mr-sm-2" type="text" placeholder="Twitter Handle">
+                    <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>
                 </form>
             </div>
         </nav>
@@ -85,6 +85,8 @@ foreach($string as $items)
                                     <p class="card-text">
                                         <?php echo $items['text'];?>
                                     </p>
+                                    <hr>
+                                    <small><?php echo "Time and Date of Tweet: ".$items['created_at'];?></small>
                                 </div>
                             </div>
                         </div>
