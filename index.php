@@ -82,11 +82,12 @@ foreach($string as $items)
                                         <?php echo $items['user']['name'];?>
                                     </h4>
                                     <img class="card-img-top rounded-circle float-left" style="width: 50px; height: 70px; margin-right: 10px;" src="<?php echo $items['user']['profile_image_url'];?>" alt="Card image">
-                                    <p class="card-text" style="height: 300px;">
+                                    <p class="card-text">
                                         <?php echo $items['text'];?>
-                                    </p>
-                                    <hr>
+                                        <hr>
                                     <small><?php echo "Time and Date: ".$items['created_at'];?></small>
+                                    </p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -104,7 +105,7 @@ foreach($string as $items)
                       }?>
                 </div>
                 <p class="lead">
-                    <a class="btn btn-danger btn-md" href="https://tweetoz.herokuapp.com/" role="button">Refresh</a>
+                    <a class="btn btn-danger" href="https://tweetoz.herokuapp.com/" role="button">Refresh</a>
                 </p>
             </div>
         </div>
