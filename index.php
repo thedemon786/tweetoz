@@ -75,7 +75,7 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
 foreach($string as $items)
     { ?>
                         <div class="col-sm-6 col-md-3">
-                            <div class="card text-white bg-primary mb-3" style="width: 250px; height: 300px;">
+                            <div class="card text-white bg-primary mb-3" style="width: 250px; height: 350px;">
                                 <div class="card-header">Tweet</div>
                                 <div class="card-body">
                                     <h4 class="card-title">
@@ -84,9 +84,10 @@ foreach($string as $items)
                                     <img class="card-img-top rounded-circle float-left" style="width: 50px; height: 70px; margin-right: 10px;" src="<?php echo $items['user']['profile_image_url'];?>" alt="Card image">
                                     <p class="card-text">
                                         <?php echo $items['text'];?>
+                                        <hr>
+                                    <small><?php echo "Time and Date: ".$items['created_at'];?></small>
                                     </p>
-                                    <hr>
-                                    <small><?php echo "Time and Date of Tweet: ".$items['created_at'];?></small>
+                                    
                                 </div>
                             </div>
                         </div>
