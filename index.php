@@ -57,7 +57,7 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
                 </ul>
                 <form class="form-inline my-2 my-lg-0" method="get" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
                     <input name="user" class="form-control mr-sm-2" type="text" placeholder="Twitter Handle">
-                    <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>
+                    <button class="btn btn-danger my-2 my-sm-0" type="submit">Search</button>
                 </form>
             </div>
         </nav>
@@ -75,7 +75,7 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
 foreach($string as $items)
     { ?>
                         <div class="col-sm-6 col-md-3">
-                            <div class="card text-white bg-primary mb-3" style="width: 250px; height: 350px;">
+                            <div class="card text-white bg-primary mb-3" style="width: 250px; height: 365px;">
                                 <div class="card-header">Tweet</div>
                                 <div class="card-body">
                                     <h4 class="card-title">
