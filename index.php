@@ -73,6 +73,7 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
     <div class="container">
         <div class="well">
             <div class="row">
+                    <div class="card-deck">
                 <?php
 foreach($string as $items)
     { ?>
@@ -93,10 +94,11 @@ foreach($string as $items)
                                 </div>
                             </div>
                         </div> -->
-                <div class="card-deck">
-                    <div class="card">
+                    <div class="card text-white bg-primary mb-2">
+                            <div class="card-header">Tweet</div>
                         <div class="card-body">
                             <h5 class="card-title"><?php echo $items['user']['name'];?></h5>
+                            <img class="card-img-top rounded-circle float-left" style="width: 50px; height: 70px; margin-right: 10px;" src="<?php echo $items['user']['profile_image_url'];?>" alt="Card image">
                             <p class="card-text"> <?php echo $items['text'];?></p>
                         </div>
                         <div class="card-footer">
