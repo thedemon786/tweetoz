@@ -55,8 +55,8 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
         <a class="nav-link" href="#">About</a>
       </li> -->
                 </ul>
-                <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="text" placeholder="Search">
+                <form class="form-inline my-2 my-lg-0" method="get" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
+                    <input name="user" class="form-control mr-sm-2" type="text" placeholder="Search">
                     <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
                 </form>
             </div>
