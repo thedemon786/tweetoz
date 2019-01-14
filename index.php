@@ -85,9 +85,9 @@ foreach($string as $items)
                                     <p class="card-text">
                                         <?php echo $items['text'];?>
                                     </p>
-                                    <footer class="blockquote-footer">
+                                    <div class="card-footer text-muted">
                                     <small><?php echo "Time and Date: ".$items['created_at'];?></small>
- </footer>
+                                    </div>
                                 </div>
                             </div>
                         </div>
