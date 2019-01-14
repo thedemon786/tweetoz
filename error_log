@@ -1,0 +1,244 @@
+[20-Jun-2018 21:10:35 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:11:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 13
+[20-Jun-2018 21:12:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 302
+[20-Jun-2018 21:12:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 302
+[20-Jun-2018 21:13:57 Asia/Kolkata] PHP Notice:  Use of undefined constant errors - assumed 'errors' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:14:11 Asia/Kolkata] PHP Notice:  Use of undefined constant errors - assumed 'errors' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:16:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 13
+[20-Jun-2018 21:16:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 13
+[20-Jun-2018 21:17:52 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:18:35 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:20:37 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: profile_image_url in /home/swayamsa/public_html/wisdome/test/testApp.php on line 22
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: profile_image_url in /home/swayamsa/public_html/wisdome/test/testApp.php on line 22
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: profile_image_url in /home/swayamsa/public_html/wisdome/test/testApp.php on line 22
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: profile_image_url in /home/swayamsa/public_html/wisdome/test/testApp.php on line 22
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: profile_image_url in /home/swayamsa/public_html/wisdome/test/testApp.php on line 22
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: profile_image_url in /home/swayamsa/public_html/wisdome/test/testApp.php on line 22
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: profile_image_url in /home/swayamsa/public_html/wisdome/test/testApp.php on line 22
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: profile_image_url in /home/swayamsa/public_html/wisdome/test/testApp.php on line 22
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: profile_image_url in /home/swayamsa/public_html/wisdome/test/testApp.php on line 22
+[20-Jun-2018 21:22:24 Asia/Kolkata] PHP Notice:  Undefined index: profile_image_url in /home/swayamsa/public_html/wisdome/test/testApp.php on line 22
+[20-Jun-2018 21:23:32 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:25:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[20-Jun-2018 21:25:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[20-Jun-2018 21:26:55 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:35:28 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:37:15 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:38:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '>', expecting end of file in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[20-Jun-2018 21:39:26 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:40:56 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:42:30 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:43:04 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:43:36 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:44:12 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:45:57 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:48:12 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[20-Jun-2018 21:50:49 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 01:33:41 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 01:41:38 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 01:52:28 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 01:54:13 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 01:59:20 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:00:50 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:03:17 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:04:16 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:04:38 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:04:42 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:04:47 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:08:40 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:10:00 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:11:36 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:12:22 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:12:59 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:13:14 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:13:32 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:14:48 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:15:20 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 17
+[21-Jun-2018 02:23:03 Asia/Kolkata] PHP Notice:  Use of undefined constant errors - assumed 'errors' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:24:15 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:25:35 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:31:08 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:31:08 Asia/Kolkata] PHP Notice:  Undefined variable: items in /home/swayamsa/public_html/wisdome/test/testApp.php on line 61
+[21-Jun-2018 02:33:26 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:33:26 Asia/Kolkata] PHP Notice:  Undefined index: user in /home/swayamsa/public_html/wisdome/test/testApp.php on line 61
+[21-Jun-2018 02:33:31 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:33:31 Asia/Kolkata] PHP Notice:  Undefined index: user in /home/swayamsa/public_html/wisdome/test/testApp.php on line 61
+[21-Jun-2018 02:35:54 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:36:05 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:36:45 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:41:33 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:41:55 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:41:59 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:42:03 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 18
+[21-Jun-2018 02:55:36 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:09:05 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:11:24 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:12:21 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:12:40 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:12:57 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:18:42 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:19:59 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:21:36 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:22:04 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:22:21 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:23:41 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:25:59 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:26:41 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:26:41 Asia/Kolkata] PHP Fatal error:  Cannot redeclare insertTweets() (previously declared in /home/swayamsa/public_html/wisdome/test/testApp.php:82) in /home/swayamsa/public_html/wisdome/test/testApp.php on line 82
+[21-Jun-2018 20:29:54 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:29:54 Asia/Kolkata] PHP Fatal error:  Cannot redeclare insertTweets() (previously declared in /home/swayamsa/public_html/wisdome/test/testApp.php:107) in /home/swayamsa/public_html/wisdome/test/testApp.php on line 107
+[21-Jun-2018 20:30:01 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:30:01 Asia/Kolkata] PHP Fatal error:  Cannot redeclare insertTweets() (previously declared in /home/swayamsa/public_html/wisdome/test/testApp.php:107) in /home/swayamsa/public_html/wisdome/test/testApp.php on line 107
+[21-Jun-2018 20:30:05 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:30:05 Asia/Kolkata] PHP Fatal error:  Cannot redeclare insertTweets() (previously declared in /home/swayamsa/public_html/wisdome/test/testApp.php:107) in /home/swayamsa/public_html/wisdome/test/testApp.php on line 107
+[21-Jun-2018 20:34:16 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:34:16 Asia/Kolkata] PHP Fatal error:  Cannot redeclare insertTweets() (previously declared in /home/swayamsa/public_html/wisdome/test/testApp.php:107) in /home/swayamsa/public_html/wisdome/test/testApp.php on line 107
+[21-Jun-2018 20:34:32 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:36:17 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:36:57 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:38:18 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:38:40 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:38:57 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:39:15 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:39:58 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:40:58 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:41:54 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:43:00 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:43:21 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:43:56 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:44:27 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:45:54 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:46:18 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:47:14 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:47:42 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:47:56 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:48:36 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:49:00 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:49:16 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:49:43 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:49:59 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:50:02 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:50:54 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:51:09 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 20:51:36 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 21:07:57 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 25
+[21-Jun-2018 21:11:39 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[21-Jun-2018 21:13:32 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 26
+[21-Jun-2018 21:24:22 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 26
+[21-Jun-2018 21:27:37 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 26
+[21-Jun-2018 21:40:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$trunk_stmt' (T_VARIABLE) in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 13
+[21-Jun-2018 21:40:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$trunk_stmt' (T_VARIABLE) in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 13
+[21-Jun-2018 21:41:11 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[21-Jun-2018 21:41:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$trunk_stmt' (T_VARIABLE) in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 13
+[21-Jun-2018 21:43:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$trunk_stmt' (T_VARIABLE) in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 13
+[21-Jun-2018 21:49:03 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 26
+[21-Jun-2018 21:49:18 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 26
+[21-Jun-2018 21:54:31 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 26
+[21-Jun-2018 21:55:04 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 26
+[21-Jun-2018 21:55:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/swayamsa/public_html/wisdome/test/testSQL.php:45
+Stack trace:
+#0 /home/swayamsa/public_html/wisdome/test/testSQL.php(35): insertTweets('President Trump', 'POTUS', 'RT @WhiteHouse:...', 'Thu Jun 21 15:0...', '100981481422130...', 23426747)
+#1 {main}
+  thrown in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 45
+[21-Jun-2018 21:55:21 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 26
+[21-Jun-2018 21:55:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/swayamsa/public_html/wisdome/test/testSQL.php:45
+Stack trace:
+#0 /home/swayamsa/public_html/wisdome/test/testSQL.php(35): insertTweets('President Trump', 'POTUS', 'RT @WhiteHouse:...', 'Thu Jun 21 15:0...', '100981481422130...', 23426748)
+#1 {main}
+  thrown in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 45
+[21-Jun-2018 21:56:06 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 26
+[21-Jun-2018 21:56:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/swayamsa/public_html/wisdome/test/testSQL.php:45
+Stack trace:
+#0 /home/swayamsa/public_html/wisdome/test/testSQL.php(35): insertTweets('President Trump', 'POTUS', 'RT @WhiteHouse:...', 'Thu Jun 21 15:0...', '100981481422130...', 23426751)
+#1 {main}
+  thrown in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 45
+[21-Jun-2018 21:56:25 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 26
+[21-Jun-2018 21:59:51 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 35
+[21-Jun-2018 22:00:51 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 36
+[21-Jun-2018 22:01:05 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 36
+[21-Jun-2018 22:04:45 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 51
+[21-Jun-2018 22:06:16 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 37
+[21-Jun-2018 22:07:42 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 37
+[22-Jun-2018 01:44:24 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:44:44 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:45:18 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:45:34 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:47:19 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testSQL.php on line 37
+[22-Jun-2018 01:47:20 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:47:20 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:47:47 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:47:58 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:06 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:45 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:48 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:48 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:48 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:50 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:53 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:54 Asia/Kolkata] PHP Notice:  Use of undefined constant errors - assumed 'errors' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:54 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:54 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:56 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:57 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Warning:  Illegal string offset 'user' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 82
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 82
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Warning:  Illegal string offset 'user' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 84
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Warning:  Illegal string offset 'profile_image_url' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 84
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Warning:  Illegal string offset 'text' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 86
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Warning:  Illegal string offset 'user' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 82
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 82
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Warning:  Illegal string offset 'user' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 84
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Warning:  Illegal string offset 'profile_image_url' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 84
+[22-Jun-2018 01:48:58 Asia/Kolkata] PHP Warning:  Illegal string offset 'text' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 86
+[22-Jun-2018 01:48:59 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:00 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:00 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:01 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Warning:  Illegal string offset 'user' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 82
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 82
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Warning:  Illegal string offset 'user' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 84
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Warning:  Illegal string offset 'profile_image_url' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 84
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Warning:  Illegal string offset 'text' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 86
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Warning:  Illegal string offset 'user' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 82
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Warning:  Illegal string offset 'name' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 82
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Warning:  Illegal string offset 'user' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 84
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Warning:  Illegal string offset 'profile_image_url' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 84
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Warning:  Illegal string offset 'text' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 86
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:19 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:20 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:22 Asia/Kolkata] PHP Notice:  Use of undefined constant errors - assumed 'errors' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:23 Asia/Kolkata] PHP Notice:  Use of undefined constant errors - assumed 'errors' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:24 Asia/Kolkata] PHP Notice:  Use of undefined constant errors - assumed 'errors' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:24 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:24 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:25 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:25 Asia/Kolkata] PHP Notice:  Use of undefined constant errors - assumed 'errors' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:32 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:33 Asia/Kolkata] PHP Notice:  Use of undefined constant errors - assumed 'errors' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:40 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 01:49:57 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 02:09:30 Asia/Kolkata] PHP Notice:  Use of undefined constant errors - assumed 'errors' in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 02:09:49 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 02:10:19 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 02:10:42 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 02:23:40 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 06:09:32 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 06:10:48 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 06:12:56 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 06:14:25 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 07:09:26 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 07:12:08 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 07:12:09 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 07:12:23 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 07:13:00 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 07:13:25 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 21:37:54 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 21:38:11 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
+[22-Jun-2018 22:07:45 Asia/Kolkata] PHP Notice:  Undefined index: errors in /home/swayamsa/public_html/wisdome/test/testApp.php on line 19
