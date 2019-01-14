@@ -73,11 +73,10 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
     <div class="container">
         <div class="well">
             <div class="row">
-                    <div class="card-deck">
                 <?php
 foreach($string as $items)
     { ?>
-                <!-- <div class="col-sm-6 col-md-3">
+                <div class="col-sm-6 col-md-3">
                             <div class="card text-white bg-primary mb-3" style="width: 250px; height: 400px;">
                                 <div class="card-header">Tweet</div>
                                 <div class="card-body">
@@ -88,25 +87,14 @@ foreach($string as $items)
                                     <p class="card-text">
                                         <?php echo $items['text'];?>
                                     </p>
-                                    <div class="card-footer text-muted">
+                                    <div class="card-footer">
                                     <small><?php echo "Time and Date: ".$items['created_at'];?></small>
                                     </div>
                                 </div>
                             </div>
-                        </div> -->
-                    <div class="card text-white bg-primary mb-2" style="width: 250px; height: 400px;">
-                            <div class="card-header">Tweet</div>
-                        <div class="card-body">
-                            <h5 class="card-title"><?php echo $items['user']['name'];?></h5>
-                            <img class="card-img-top rounded-circle float-left" style="width: 50px; height: 70px; margin-right: 10px;" src="<?php echo $items['user']['profile_image_url'];?>" alt="Card image">
-                            <p class="card-text"> <?php echo $items['text'];?></p>
                         </div>
-                        <div class="card-footer">
-                            <small><?php echo "Time and Date: ".$items['created_at'];?></small>
-                        </div>
-                    </div>
-
-                    <!-- echo "Time and Date of Tweet: ".$items['created_at']."<br />";
+               
+                <!-- echo "Time and Date of Tweet: ".$items['created_at']."<br />";
         echo "Tweet: ". $items['text']."<br />";
         echo "Image URL: ". $items['user']['profile_image_url']."<br />";
         echo "Tweeted by: ". $items['user']['name']."<br />";
@@ -114,15 +102,15 @@ foreach($string as $items)
         echo "Followers: ". $items['user']['followers_count']."<br />";
         echo "Friends: ". $items['user']['friends_count']."<br />";
         echo "Listed: ". $items['user']['listed_count']."<br />"; -->
-                    <?php 
+                <?php 
                        
                       }?>
-                </div>
-                <p class="lead">
-                    <a class="btn btn-danger" href="https://tweetoz.herokuapp.com/" role="button">Refresh</a>
-                </p>
             </div>
+            <p class="lead">
+                <a class="btn btn-danger" href="https://tweetoz.herokuapp.com/" role="button">Refresh</a>
+            </p>
         </div>
+    </div>
 </body>
 
 </html>
