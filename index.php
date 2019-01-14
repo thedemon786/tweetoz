@@ -87,10 +87,10 @@ foreach($string as $items)
                                     <p class="card-text">
                                         <?php echo $items['text'];?>
                                     </p>
-                                    <div class="card-footer">
-                                    <small><?php echo "Time and Date: ".$items['created_at'];?></small>
-                                    </div>
                                 </div>
+                                <div class="card-footer">
+                                        <small><?php echo "Time and Date: ".$items['created_at'];?></small>
+                                        </div>
                             </div>
                         </div>
                
