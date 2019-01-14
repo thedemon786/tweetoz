@@ -22,7 +22,7 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
     <html lang="en">
 
     <head>
-        <title>testApp</title>
+        <title>TweetOz</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://bootswatch.com/4/spacelab/bootstrap.min.css">
