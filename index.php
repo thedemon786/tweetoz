@@ -84,10 +84,10 @@ foreach($string as $items)
                                     <img class="card-img-top rounded-circle float-left" style="width: 50px; height: 70px; margin-right: 10px;" src="<?php echo $items['user']['profile_image_url'];?>" alt="Card image">
                                     <p class="card-text">
                                         <?php echo $items['text'];?>
-                                        <hr>
-                                    <small><?php echo "Time and Date: ".$items['created_at'];?></small>
                                     </p>
-                                    
+                                    <footer class="blockquote-footer">
+                                    <small><?php echo "Time and Date: ".$items['created_at'];?></small>
+ </footer>
                                 </div>
                             </div>
                         </div>
