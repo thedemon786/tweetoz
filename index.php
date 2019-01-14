@@ -75,19 +75,18 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
 foreach($string as $items)
     { ?>
                         <div class="col-sm-6 col-md-3">
-                            <div class="card text-white bg-primary mb-3" style="width: 250px; height: 365px;">
+                            <div class="card text-white bg-primary mb-3" style="width: 250px; height: 400px;">
                                 <div class="card-header">Tweet</div>
                                 <div class="card-body">
                                     <h4 class="card-title">
                                         <?php echo $items['user']['name'];?>
                                     </h4>
                                     <img class="card-img-top rounded-circle float-left" style="width: 50px; height: 70px; margin-right: 10px;" src="<?php echo $items['user']['profile_image_url'];?>" alt="Card image">
-                                    <p class="card-text">
+                                    <p class="card-text" style="height: 300px;">
                                         <?php echo $items['text'];?>
-                                        <hr>
-                                    <small><?php echo "Time and Date: ".$items['created_at'];?></small>
                                     </p>
-                                    
+                                    <hr>
+                                    <small><?php echo "Time and Date: ".$items['created_at'];?></small>
                                 </div>
                             </div>
                         </div>
@@ -105,7 +104,7 @@ foreach($string as $items)
                       }?>
                 </div>
                 <p class="lead">
-                    <a class="btn btn-primary btn-sm" href="https://tweetoz.herokuapp.com/" role="button">Refresh</a>
+                    <a class="btn btn-danger btn-md" href="https://tweetoz.herokuapp.com/" role="button">Refresh</a>
                 </p>
             </div>
         </div>
