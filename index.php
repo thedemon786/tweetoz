@@ -33,7 +33,7 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-        <a class="navbar-brand" href="https://tweetoz.herokuapp.com/">TweetOz</a>
+        <a class="navbar-brand active" href="https://tweetoz.herokuapp.com/">TweetOz</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01"
             aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -41,8 +41,8 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
 
         <div class="collapse navbar-collapse" id="navbarColor01">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="https://tweetoz.herokuapp.com/">Home
+                <li class="nav-item">
+                    <a class="nav-link text-muted" href="https://github.com/thedemon786">Github
                         <span class="sr-only">(current)</span>
                     </a>
                 </li>
