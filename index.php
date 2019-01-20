@@ -42,7 +42,7 @@ if($string["errors"][0]["message"] != "") {echo "<h3>Sorry, there was a problem.
         <div class="collapse navbar-collapse" id="navbarColor01">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link text-muted" href="https://github.com/thedemon786">Github
+                    <a class="nav-link" href="https://github.com/thedemon786">Github
                         <span class="sr-only">(current)</span>
                     </a>
                 </li>
